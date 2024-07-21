@@ -144,3 +144,10 @@ ul li.checked span:hover {
   background: #fff;
   color: #000;
 }
+footer {
+  background-color: #3700a4;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
