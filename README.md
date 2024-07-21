@@ -1,2 +1,2 @@
 # ToDo-App
-A demo learning basi JS project (To-Do List)
+A demo learning based basic JS project (To-Do List)
